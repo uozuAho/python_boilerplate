@@ -5,7 +5,7 @@ project in a way that works. Hopefully this saves me some time in the future...
 
 The goal is to be able to, without modifying any files:
 - run all tests
-- WIP: debug a test
+- debug a test
 - TODO: run & debug the cli module
 
 ```sh
@@ -17,8 +17,9 @@ python python_boilerplate.py
 ```
 
 Debugging is via vscode. Run the Python: Current file configuration.
+You can also use vscode's test runner to run all tests, single tests, and debug
+tests. To debug a test, right click on the play button next to the test.
 
 
 todo
-- fix debugging test
 - add cli package
