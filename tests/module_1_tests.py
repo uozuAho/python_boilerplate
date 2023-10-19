@@ -1,6 +1,6 @@
 import unittest
 
-from pboil.module_1 import Module1Thing
+from pboil.pack1.module_1 import Module1Thing
 
 class Module1ThingTests(unittest.TestCase):
     def test_stuff(self):

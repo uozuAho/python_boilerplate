@@ -1,4 +1,4 @@
-from .module_2 import Module2Thing
+from pack2.module_2 import Module2Thing
 
 class Module1Thing:
     def run(self):
