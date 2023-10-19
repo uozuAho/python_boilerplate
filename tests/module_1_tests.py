@@ -6,3 +6,7 @@ class Module1ThingTests(unittest.TestCase):
     def test_stuff(self):
         thing = Module1Thing()
         thing.run()
+
+
+if __name__ == '__main__':
+    unittest.main()
