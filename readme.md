@@ -15,3 +15,5 @@ python -m venv .venv  # if you've just cloned the repo
 ./run_tests.sh
 python python_boilerplate.py
 ```
+
+Debugging is via vscode. Run the Python: Current file configuration.
