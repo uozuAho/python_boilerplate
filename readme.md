@@ -8,6 +8,9 @@ The goal is to be able to, without modifying any files:
 - debug a test
 - run & debug the cli module
 
+Note that the packages under pboil aren't intended to be deployed independently.
+I don't know how package publishing/deployment works.
+
 ```sh
 python -m venv .venv  # if you've just cloned the repo
 . .venv/Scripts/activate
