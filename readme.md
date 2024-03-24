@@ -1,3 +1,5 @@
+Old, see https://github.com/duarteocarmo/boilerplate
+
 # Python boilerplate project structure
 
 Python is easy, right? Wrong! I can never remember how to structure a
